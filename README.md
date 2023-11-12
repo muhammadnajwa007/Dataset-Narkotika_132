@@ -47,5 +47,5 @@ Data set ini menggunakan beberapa plungin. Interuksi cara menggunakan data set i
 
 | Plugin | README |
 | ------ | ------ |
-| GitHub | [https://github.com/Asfamaghfiratunnisa/Dataset-Narkotika_132_142] |
+| GitHub | 
  
