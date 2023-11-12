@@ -1,5 +1,5 @@
-# Dataset Narkotika PN Batulicin - Kalimantan Selatan
-## Tugas kelompok oleh Asfa Maghfiratunnisa_2020138 dan Anisa Kusumawati_2020142
+# Dataset Narkotika PN Kandangan - Kalimantan Selatan
+## Muhammad Najwa Ma'ruf Abyadhi_132
 _Mata kuliah Temu Kembali Informasi_
 _Dosen Pengampu IR. GALIH WASIS WICAKSONO, S.KOM, M.CS._
 
